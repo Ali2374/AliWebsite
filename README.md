@@ -30,12 +30,12 @@ Jekyll / GitHub Pages
 
 To use this project with Jekyll and GitHub Pages (deploy to `https://alitalib.com`):
 
-1. The repository already includes `_config.yml` with `url: "https://alitalib.com"` and a `CNAME` file set to `alitalib.com`.
+1. The repository already includes `_config.yml` with `url: "https://alitalibov.com"` and a `CNAME` file set to `alitalibov.com`.
 2. In your GitHub repository settings -> Pages, set the source to branch `main` (root) and enable the site.
-3. Add the DNS `A` records and/or CNAME for `alitalib.com` pointing to GitHub Pages as described in GitHub docs.
+3. Add the DNS `A` records and/or CNAME for `alitalibov.com` pointing to GitHub Pages as described in GitHub docs.
 4. If you want to use a GitHub Pages theme, set `theme:` in `_config.yml` and ensure compatibility.
 
-After Pages builds, the custom domain `alitalib.com` will be used automatically (DNS + Pages settings required).
+After Pages builds, the custom domain `alitalibov.com` will be used automatically (DNS + Pages settings required).
 
 How to open from Git Bash (Windows)
 

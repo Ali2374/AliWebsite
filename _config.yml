@@ -1,8 +1,8 @@
-title: alitalib.com
+title: alitalibov.com
 email: atalibov25152@ada.adu.az
-description: "Editable template for alitalib.com"
+description: "Editable template for alitalibov.com"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alitalib.com" # the base hostname & protocol for your site
+url: "https://alitalibov.com" # the base hostname & protocol for your site
 markdown: kramdown
 # If you want to use a GitHub Pages theme, uncomment the next line and set a theme supported by pages
 # theme: minima
